@@ -1,0 +1,133 @@
+.container-flex {
+    display: flex ; 
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    padding: 25px 20px; 
+    border-radius: 10px;
+}    
+
+.LeftSide {
+    text-align: left;  
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 8px 0;
+    outline: none;
+    height: 50px;
+    border-color: rgb(237, 231, 231);
+}
+
+input:focus {
+    border-color: #47a1e9;
+}
+
+input::placeholder {
+    font-size: 20px;
+}
+
+div button {
+    width: 100%;
+    padding: 8px 0;
+    margin: 12px 0;
+    border-radius: 5px;
+    background-color: #47a1e9;
+    color:white;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    height: 13%;
+}
+
+div button:hover {
+    background-color: rgb(11, 112, 213);
+}
+
+div h1 {
+    font-size: 65px;
+    color: rgb(5, 127, 214);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-stretch: expanded;
+}
+
+#para {
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    padding: 0 5px;
+    color: grey;
+    margin: 3px 0
+}
+
+div Form:visited {
+    width: 350px;
+    height: 400px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    padding: 42px;
+}
+
+div form {
+    box-shadow: 5px 5px 50px rgba(84, 82, 82, 0.938);
+    width: 350px;
+}
+
+div .create-button {
+        width: 50%;
+        padding: 8px 0; 
+        margin: 12px 0;
+        border-radius: 5px;
+        background-color: rgb(23, 136, 49);
+        color:white;
+        outline: none;
+        border: none;
+        font-size: 18px;
+        height: 50px;
+}
+
+div .create-button:hover {
+    background-color: rgb(9, 84, 9);
+}
+
+.LeftSide pre {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
